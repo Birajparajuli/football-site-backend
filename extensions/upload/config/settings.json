@@ -1,0 +1,8 @@
+{
+    "provider": "cloudinary",
+    "providerOptions": {
+        "cloud_name": "biraj",
+        "api_key": "427325874192644",
+        "api_secret": "L89H1PHCDVZgslXvv1QUGUTczOA"
+      }
+}
